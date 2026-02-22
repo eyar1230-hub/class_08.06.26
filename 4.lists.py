@@ -82,7 +82,7 @@ grade = int(grade_s)  # work 100%
 #   calc the avg, print it
 #   remove the last grade (hint: use pop)
 #   find the minimum grade (use for loop) and remove it from the list  (hint: remove)
-#   find the maximum grade (use for loop) and add another max grade at the: (1) end of the list (2) at the middle
+#   find the maximum grade (use for l0oop) and add another max grade at the: (1) end of the list (2) at the middle
 
 grades: list[int] = []
 
